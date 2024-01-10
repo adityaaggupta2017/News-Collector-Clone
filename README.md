@@ -39,5 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Sahil Gupta - 2022430
 
 ---
-
-**Note:** Make sure to replace placeholders like `[LICENSE.md]` with actual links or filenames as needed.
